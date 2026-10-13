@@ -1,5 +1,7 @@
 #include <iostream>
 
+// Программа читает два целых числа и выводит результат их сложения.
+
 int main() {
     std::cout << "Enter two integers:\n";
 

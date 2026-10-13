@@ -1,5 +1,7 @@
 #include <iostream>
 
+// Программа должна прочитать 2 целых числа и заметить, что чтение не удалось.
+
 int main() {
     std::cout << "Enter two integers:\n";
 
